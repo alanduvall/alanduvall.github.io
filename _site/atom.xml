@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Ishan</title>
+ <title>Alan Duvall</title>
  <link href="http://alanduvall.com/atom.xml" rel="self"/>
  <link href="http://alanduvall.com/"/>
- <updated>2014-01-23T20:54:42-08:00</updated>
+ <updated>2014-01-23T21:43:15-08:00</updated>
  <id>http://alanduvall.com</id>
  <author>
    <name></name>
@@ -13,19 +13,13 @@
 
  
  <entry>
-   <title>Hello World</title>
+   <title>Alan Duvall is finally live on the web</title>
    <link href="http://alanduvall.com/2013/12/28/hello-world/"/>
    <updated>2013-12-28T00:00:00-08:00</updated>
    <id>http://alanduvall.com/2013/12/28/hello-world</id>
-   <content type="html">&lt;p&gt;&lt;a href=&#39;[https://plus.google.com/107386700887407648809]?rel=author&#39;&gt;Google&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;It has been a long time coming and I am happy to say I finally have a blog up on the interwebs. Now if only I could get on “the google”&lt;/p&gt;
 
-&lt;p&gt;layout: post&lt;/p&gt;
-
-&lt;h2 id=&quot;title_alan_duvall_is_finally_live_on_the_web&quot;&gt;title: Alan Duvall is finally live on the web&lt;/h2&gt;
-
-&lt;p&gt;It has been a long time coming and I am happy to say I finally have a blog up on the interwebs. Now if only I could get on “the google”&lt;/p&gt;
-
-&lt;p&gt;Speaking of “the google”, I am challenging myself to a 90 day challenge where by I plan to conquer the first page of google with only information relating to the true “Alan Duvall” Now the interesting aspect of this challenge is that it truly ranges from 0 to 100 in terms of difficulty depending on your name. And unfortunately for me I also have to compete with a legitimate accounting business. I put my odds of succeeding at 85%. As you continue to follow me in my journey through this challenge as well as future challenges please Click To Tweet&lt;/p&gt;</content>
+&lt;p&gt;Speaking of “the google”, I am challenging myself to a 90 day challenge where by I plan to conquer the first page of google with only information relating to the true “Alan Duvall” Now the interesting aspect of this challenge is that it truly ranges from 0 to 100 in terms of difficulty depending on your name. And unfortunately for me I also have to compete with a legitimate accounting business. I put my odds of succeeding at 85%. As you continue to follow me in my journey through this challenge as well as future challenges please &lt;a href=&#39;http://ctt.ec/Ob9Rc &#39; target=&#39;_blank&#39;&gt;Click To Tweet&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  <entry>
