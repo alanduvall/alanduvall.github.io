@@ -1,28 +1,11 @@
----
+<a href="[https://plus.google.com/107386700887407648809]?rel=author">Google</a>---
 layout: post
-title: Hello, world!
+title: Alan Duvall is finally live on the web
 ---
 
-Welcome to [Hyde](http://andhyde.com), the perfect companion to [Jekyll](http://jekyllrb.com), the popular static site generator. Hyde is an elegant, open source, mobile first theme for Jekyll. It includes lightweight styles and placeholder content to get you up and running with a simple blog in no time.
+It has been a long time coming and I am happy to say I finally have a blog up on the interwebs. Now if only I could get on "the google"
 
-### Features
+Speaking of "the google", I am challenging myself to a 90 day challenge where by I plan to conquer the first page of google with only information relating to the true "Alan Duvall" 
+Now the interesting aspect of this challenge is that it truly ranges from 0 to 100 in terms of difficulty depending on your name. And unfortunately for me I also have to compete with a legitimate accounting business.  I put my odds of succeeding at 85%. As you continue to follow me in my journey through this challenge as well as future challenges please Click To Tweet
 
-* Complete Jekyll setup included (layouts, config, 404, RSS feed, posts, and page)
-* [Eight optional color schemes](https://github.com/mdo/hyde#themes), available via `<body>` classes
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/mdo/hyde#reverse-layout) (right sidebar), available via `<body>` classes
-* Mobile first design and development, so it works great on all devices
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-### Browser support
-
-Hyde is a rather forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Documentation
-
-Docs for setting up and customizing Hyde can be found in the [project readme on GitHub](https://github.com/mdo/hyde#readme).
-
-### Download
-
-Find out more and [download a copy](https://github.com/mdo/hyde) today from GitHub.
