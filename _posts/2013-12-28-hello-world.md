@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Alan Duvall is finally live on the web
+description: Alan Duvall is taking on the 90 day challenge to conquer his name in the search results. Follow his progress and feel free to add to the discussion on twitter.
 ---
 
 It has been a long time coming and I am happy to say I finally have a blog up on the interwebs. Now if only I could get on "the google"
