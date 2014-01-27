@@ -9,7 +9,7 @@
     {% if page.title %}{{ page.title }} &middot; {% endif %}
     {{ site.tagline }}
   </title>
-
+  <meta name="description" content"{% if page.description %}{{ page.description }} {% endif %}">
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/hyde.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
